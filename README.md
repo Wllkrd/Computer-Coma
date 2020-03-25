@@ -1,2 +1,3 @@
 # Computer Coma
- Computer Coma Gamin Website
+ Computer Coma Gaming Website
+## Still Under Development
